@@ -78,7 +78,7 @@ make if he sold all of his shares.
 Pro-tip: Use the underscore (\_) variable to use the result of the last
 calculation. For example, how much profit does Larry make after his evil
 broker takes their 20% cut?
-
+#  `_` represnt the result of the last calculation
 ```python
 >>> _ * 0.80
 28566.600000000002
@@ -144,6 +144,7 @@ Now that you've done this, just remember that you will get more out of
 the class by typing in code slowly and thinking about it--not cut and pasting.
 
 ### Exercise 1.4: Where is My Bus?
+`# !!!! This is not working anymore`
 
 Try something more advanced and type these statements to find out how
 long people waiting on the corner of Clark street and Balmoral in
